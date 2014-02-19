@@ -20,3 +20,9 @@ http://habrahabr.ru/post/212955/
 
 Example of blog on github.io:
 http://demin.ws/
+
+Couresra & Scala
+http://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/
+
+Ideas Aren't Worthless
+http://techblog.bozho.net/?p=1317
