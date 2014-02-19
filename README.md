@@ -17,3 +17,6 @@ http://habrahabr.ru/post/212993/
 
 Why monads?
 http://habrahabr.ru/post/212955/
+
+Example of blog on github.io:
+http://demin.ws/
