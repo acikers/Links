@@ -26,3 +26,9 @@ http://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/
 
 Ideas Aren't Worthless
 http://techblog.bozho.net/?p=1317
+
+Windows 8 and Metro
+http://news.cnet.com/8301-10805_3-57619024-75/windows-8-designer-why-microsoft-forced-metro-on-us-all/
+
+Ten Fucking Million Dollars
+http://jaygould.com/what-happened-when-i-made-my-first-ten-million-dollars/
