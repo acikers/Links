@@ -32,3 +32,6 @@ http://news.cnet.com/8301-10805_3-57619024-75/windows-8-designer-why-microsoft-f
 
 Ten Fucking Million Dollars
 http://jaygould.com/what-happened-when-i-made-my-first-ten-million-dollars/
+
+Just to see once
+http://www.youtube.com/watch?v=WyQ3hMh0QbU
