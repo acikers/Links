@@ -41,3 +41,4 @@ http://blog.samaltman.com/ai
 
 Explanatory Dictionary of Russian
 http://www.dix.ru/3229
+http://www.gramota.ru/slovari/argo/
