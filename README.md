@@ -35,3 +35,6 @@ http://jaygould.com/what-happened-when-i-made-my-first-ten-million-dollars/
 
 Just to see once
 http://www.youtube.com/watch?v=WyQ3hMh0QbU
+
+AI
+http://blog.samaltman.com/ai
