@@ -38,3 +38,6 @@ http://www.youtube.com/watch?v=WyQ3hMh0QbU
 
 AI
 http://blog.samaltman.com/ai
+
+Explanatory Dictionary of Russian
+http://www.dix.ru/3229
