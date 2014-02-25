@@ -42,3 +42,18 @@ http://blog.samaltman.com/ai
 Explanatory Dictionary of Russian
 http://www.dix.ru/3229
 http://www.gramota.ru/slovari/argo/
+
+Java sucks again:
+http://stackoverflow.com/questions/21947452/why-is-printing-b-dramatically-slower-than-printing
+
+Github analytics:
+http://johnnunemaker.com/analytics-at-github/
+
+Gmail Data Visualization with d3.js:
+http://luk3thomas.com/gmail-archive-data-visualization-d3-js-20140223.html
+
+Comparing Haskell Web Frameworks:
+http://edofic.com/posts/2014-02-23-haskell-web.html
+
+How to Make Yourself Work:
+http://blogs.hbr.org/2014/02/how-to-make-yourself-work-when-you-just-dont-want-to/
