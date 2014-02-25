@@ -75,3 +75,12 @@ https://defuse.ca/microsoft-reads-your-skype-messages.htm
 
 Lonely friend talking:
 https://news.ycombinator.com/item?id=7291726
+
+Subverting hierarchy with git:
+http://joeyh.name/blog/entry/subverting_hierarchy_with_git/
+
+Blackphone:
+https://store.blackphone.ch/
+
+Ring-keyboard:
+http://www.indiegogo.com/projects/fin-wearable-ring-make-your-palm-as-numeric-keypad-and-gesture-interface
