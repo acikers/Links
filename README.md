@@ -57,3 +57,21 @@ http://edofic.com/posts/2014-02-23-haskell-web.html
 
 How to Make Yourself Work:
 http://blogs.hbr.org/2014/02/how-to-make-yourself-work-when-you-just-dont-want-to/
+
+"three = 1":
+https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698
+
+webgl raytraced eye:
+http://www.vill.ee/eye/
+
+why you should learn erlang:
+http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html
+
+XTouch:
+http://xtouch.io/
+
+Fuck off, Skype:
+https://defuse.ca/microsoft-reads-your-skype-messages.htm
+
+Lonely friend talking:
+https://news.ycombinator.com/item?id=7291726
