@@ -84,3 +84,6 @@ https://store.blackphone.ch/
 
 Ring-keyboard:
 http://www.indiegogo.com/projects/fin-wearable-ring-make-your-palm-as-numeric-keypad-and-gesture-interface
+
+Planning Algorithm:
+http://planning.cs.uiuc.edu/
