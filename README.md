@@ -87,3 +87,6 @@ http://www.indiegogo.com/projects/fin-wearable-ring-make-your-palm-as-numeric-ke
 
 Planning Algorithm:
 http://planning.cs.uiuc.edu/
+
+Well, fuck... Politic themed photos:
+http://www.theguardian.com/world/gallery/2014/mar/03/crimea-military-crisis-in-pictures?index=1
