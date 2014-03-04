@@ -99,3 +99,6 @@ http://www.michaelbromley.co.uk/blog/65/confessions-of-an-intermediate-programme
 
 The Best Programming Language (or How to Stop Worrying and Love The Code):
 http://blog.fourthbit.com/2014/03/01/the-best-programming-language-or-how-to-stop-worrying-and-love-the-code
+
+Sailfish OS on Nokia N9:
+http://www.jollausers.com/2013/12/sailfish-ported-to-n9-mini-tutorial/
