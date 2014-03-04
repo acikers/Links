@@ -90,3 +90,9 @@ http://planning.cs.uiuc.edu/
 
 Well, fuck... Politic themed photos:
 http://www.theguardian.com/world/gallery/2014/mar/03/crimea-military-crisis-in-pictures?index=1
+
+C++11/14 compiler and library shootout:
+http://cpprocks.com/c1114-compiler-and-library-shootout/
+
+Confessions of an Intermediate Programmer:
+http://www.michaelbromley.co.uk/blog/65/confessions-of-an-intermediate-programmer
