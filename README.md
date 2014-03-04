@@ -96,3 +96,6 @@ http://cpprocks.com/c1114-compiler-and-library-shootout/
 
 Confessions of an Intermediate Programmer:
 http://www.michaelbromley.co.uk/blog/65/confessions-of-an-intermediate-programmer
+
+The Best Programming Language (or How to Stop Worrying and Love The Code):
+http://blog.fourthbit.com/2014/03/01/the-best-programming-language-or-how-to-stop-worrying-and-love-the-code
