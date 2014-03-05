@@ -102,3 +102,6 @@ http://blog.fourthbit.com/2014/03/01/the-best-programming-language-or-how-to-sto
 
 Sailfish OS on Nokia N9:
 http://www.jollausers.com/2013/12/sailfish-ported-to-n9-mini-tutorial/
+
+Fuck computers, I'm become a farmer and move to Iceland:
+https://bitbucket.org/sjl/dotfiles/commits/b211864a20cef443ba20212b67e3392968a27b46
