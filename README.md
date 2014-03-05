@@ -105,3 +105,9 @@ http://www.jollausers.com/2013/12/sailfish-ported-to-n9-mini-tutorial/
 
 Fuck computers, I'm become a farmer and move to Iceland:
 https://bitbucket.org/sjl/dotfiles/commits/b211864a20cef443ba20212b67e3392968a27b46
+
+What is a Web-Framework:
+http://www.jeffknupp.com/blog/2014/03/03/what-is-a-web-framework/
+
+Engineer's Guide to US Visas:
+http://blog.sourcing.io/visa-guide
