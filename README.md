@@ -111,3 +111,12 @@ http://www.jeffknupp.com/blog/2014/03/03/what-is-a-web-framework/
 
 Engineer's Guide to US Visas:
 http://blog.sourcing.io/visa-guide
+
+Stop disabling SElinux:
+http://stopdisablingselinux.com/
+
+Rendering Large Terrains:
+http://www.pheelicks.com/2014/03/rendering-large-terrains/
+
+Nice programmer's blog:
+http://t-machine.org/
