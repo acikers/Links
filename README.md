@@ -121,3 +121,5 @@ http://www.pheelicks.com/2014/03/rendering-large-terrains/
 Nice programmer's blog:
 http://t-machine.org/
 
+The Computer Graphics Library:
+http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php
