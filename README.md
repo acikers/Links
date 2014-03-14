@@ -131,3 +131,18 @@ http://raganwald.com/2014/03/10/writing-oop-using-oop.html
 
 List of CS courses:
 http://www.reddit.com/r/cs50/comments/1nx2au/life_after_cs50/
+
+Super-secret debug capabilities of AMD processors:
+http://www.woodmann.com/collaborative/knowledge/index.php/Super-secret_debug_capabilities_of_AMD_processors_!
+
+Project Sentry Gun:
+https://sites.google.com/site/projectsentrygun/
+
+A console-based email client with the best features of GMail, mutt and Emacs:
+https://github.com/sup-heliotrope/sup
+
+The World through the Eyes of Hacker:
+http://landing.edgewave.com/Choice-WhitePaper-VulnerabilitiesReactful_Website2.html
+
+Should you launch more than once:
+http://nathanbarry.com/multiple-launches/
