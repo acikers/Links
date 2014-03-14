@@ -128,3 +128,6 @@ https://github.com/boostcon/2011_presentations/raw/master/thu/Awesomest.pdf
 
 Writing OOP using OOP:
 http://raganwald.com/2014/03/10/writing-oop-using-oop.html
+
+List of CS courses:
+http://www.reddit.com/r/cs50/comments/1nx2au/life_after_cs50/
