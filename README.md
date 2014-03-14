@@ -123,3 +123,8 @@ http://t-machine.org/
 
 The Computer Graphics Library:
 http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php
+
+https://github.com/boostcon/2011_presentations/raw/master/thu/Awesomest.pdf
+
+Writing OOP using OOP:
+http://raganwald.com/2014/03/10/writing-oop-using-oop.html
