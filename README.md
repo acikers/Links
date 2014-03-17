@@ -146,3 +146,24 @@ http://landing.edgewave.com/Choice-WhitePaper-VulnerabilitiesReactful_Website2.h
 
 Should you launch more than once:
 http://nathanbarry.com/multiple-launches/
+
+Trolling The Search Engines:
+http://blog.dam.io/trolling-the-search-engines/
+
+Google DNS servers suffer brief traffic hijack:
+http://www.itnews.com.au/News/375278,google-dns-servers-suffer-brief-traffic-hijack.aspx
+
+Benchmarking hash table implementations:
+http://lonewolfer.wordpress.com/2014/03/13/benchmarking-hash-table-implementations-in-different-languages/
+
+GWEI - Google Will Eat Itself:
+http://www.googlewilleatitself.com/
+
+I Knew a Programmer that Went Completely Insane:
+http://startingdotneprogramming.blogspot.ca/2013/04/i-knew-programmer-that-went-completely.html
+
+Memory management in C programs:
+http://nethack4.org/blog/memory.html
+
+The Trap You Set For Yourself:
+http://blog.codinghorror.com/the-trap-you-set-for-yourself/
