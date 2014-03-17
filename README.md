@@ -167,3 +167,21 @@ http://nethack4.org/blog/memory.html
 
 The Trap You Set For Yourself:
 http://blog.codinghorror.com/the-trap-you-set-for-yourself/
+
+Pixel Processing Problems: On the Road to Pixel Perfection:
+https://dolphin-emu.org/blog/2014/03/15/pixel-processing-problems/
+
+PoC || GTFO 0x03:
+https://archive.org/details/pocorgtfo03
+
+Before you Dual Boot - The truth about MS, OEM's & Linux:
+http://www.eightforums.com/installation-setup/19739-before-you-dual-boot-truth-about-ms-oem-s-linux.html
+
+WikiSort:
+https://github.com/BonzaiThePenguin/WikiSort
+
+Anonymity vs. Real Identity:
+http://chrissaad.com/professionalblog/2014/3/anonymity-vs-real-identity
+
+Linux gets frozen, what do you do?:
+http://www.jovicailic.org/2013/05/linux-gets-frozen-what-do-you-do/
