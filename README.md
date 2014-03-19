@@ -185,3 +185,6 @@ http://chrissaad.com/professionalblog/2014/3/anonymity-vs-real-identity
 
 Linux gets frozen, what do you do?:
 http://www.jovicailic.org/2013/05/linux-gets-frozen-what-do-you-do/
+
+Papers We Love:
+https://github.com/papers-we-love/papers-we-love
