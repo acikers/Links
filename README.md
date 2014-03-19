@@ -188,3 +188,21 @@ http://www.jovicailic.org/2013/05/linux-gets-frozen-what-do-you-do/
 
 Papers We Love:
 https://github.com/papers-we-love/papers-we-love
+
+How to be a sane programmer:
+http://www.nicholascloud.com/2014/03/how-to-be-a-sane-programmer/
+
+The Problem With Photorealism:
+http://blackhole12.blogspot.ru/2014/03/the-problem-with-photorealism.html
+
+An Introduction to x86_64:
+http://hackeradam17.com/2014/03/18/an-introduction-to-x86_64-assembly-language/
+
+I Don't Want To Be A Real Programmer:
+http://verybadalloc.com/blog/2014/03/18/i-dont-want-to-be-a-real-programmer/
+
+A false midnight:
+http://lwn.net/SubscriberLink/590299/bf73fe823974acea/
+
+Goodbye Gmail:
+http://dangoldin.com/2014/03/18/goodbye-gmail/
