@@ -206,3 +206,12 @@ http://lwn.net/SubscriberLink/590299/bf73fe823974acea/
 
 Goodbye Gmail:
 http://dangoldin.com/2014/03/18/goodbye-gmail/
+
+Lessons from a Silicon Valley job search:
+http://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/
+
+No One Knows What the Fuck They’re Doing:
+http://jangosteve.com/post/380926251/no-one-knows-what-theyre-doing
+
+SQLite vs MySQL vs PostgreSQL:
+https://www.digitalocean.com/community/articles/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
