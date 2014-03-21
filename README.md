@@ -215,3 +215,33 @@ http://jangosteve.com/post/380926251/no-one-knows-what-theyre-doing
 
 SQLite vs MySQL vs PostgreSQL:
 https://www.digitalocean.com/community/articles/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
+
+How to abuse a C++ compiler:
+http://mysticalprogramming.wordpress.com/2014/03/19/how-to-abuse-a-cpp-compiler/
+
+Moto 360:
+http://moto360.motorola.com/
+
+Design+code:
+http://designcode.io/
+
+Every Gmain Message You Send Will Now Be Protected by Encryption:
+http://gizmodo.com/every-single-gmail-message-you-send-will-now-be-encrypt-1548130115
+
+WPA2 wireless security cracked:
+http://phys.org/news/2014-03-wpa2-wireless.html
+
+I am burned out while still in learning phase. I am in need:
+http://pastebin.com/iUEk8NGS
+
+An illustrated book of bad arguments:
+https://bookofbadarguments.com/
+
+Cryptographic Right Answers:
+http://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html
+
+Markov Networks, Monoids, and Futurama:
+http://izbicki.me/blog/markov-networks-monoids-and-futurama
+
+Why I Never Hire Brilliant Men:
+https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men
