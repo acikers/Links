@@ -245,3 +245,6 @@ http://izbicki.me/blog/markov-networks-monoids-and-futurama
 
 Why I Never Hire Brilliant Men:
 https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men
+
+WTF, HTML and CSS:
+http://wtfhtmlcss.com/
