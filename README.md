@@ -248,3 +248,15 @@ https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men
 
 WTF, HTML and CSS:
 http://wtfhtmlcss.com/
+
+A Story of Ralloc (and Laziness):
+http://blog.httrack.com/blog/2014/04/05/a-story-of-realloc-and-laziness/
+
+Functionally Solving Problems:
+http://learnyouahaskell.com/functionally-solving-problems
+
+Primer: Shaders:
+http://notes.underscorediscovery.com/shaders-a-primer/
+
+Severe bug in g++ optimizator (-O2):
+http://codeforces.com/blog/entry/11450
