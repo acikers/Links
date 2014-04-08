@@ -260,3 +260,6 @@ http://notes.underscorediscovery.com/shaders-a-primer/
 
 Severe bug in g++ optimizator (-O2):
 http://codeforces.com/blog/entry/11450
+
+Start Developing iOS App Today:
+https://developer.apple.com/library/iOS/referencelibrary/GettingStarted/RoadMapiOS/index.html#//apple_ref/doc/uid/TP40011343-CH2-SW1
