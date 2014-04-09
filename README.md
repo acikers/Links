@@ -263,3 +263,6 @@ http://codeforces.com/blog/entry/11450
 
 Start Developing iOS App Today:
 https://developer.apple.com/library/iOS/referencelibrary/GettingStarted/RoadMapiOS/index.html#//apple_ref/doc/uid/TP40011343-CH2-SW1
+
+How to add brain to your smartphone:
+http://petewarden.com/2014/04/08/how-to-add-a-brain-to-your-smart-phone/
