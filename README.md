@@ -269,3 +269,24 @@ http://petewarden.com/2014/04/08/how-to-add-a-brain-to-your-smart-phone/
 
 Enough:
 http://nathanbarry.com/enough/
+
+Six programming paradigms that will change how you think about coding:
+http://brikis98.blogspot.ru/2014/04/six-programming-paradigms-that-will.html
+
+Code together:
+https://madeye.io/
+
+Uint8Array to Binary String:
+http://jsperf.com/u82bs
+
+Concurrency, Parallelism, and State. And Zombies.
+http://www.braveclojure.com/concurrency/
+
+Hack'n'Slash:
+http://www.hacknslashthegame.com/
+
+Powerful Tree Editor (Vim):
+http://jaredly.github.io/treed/
+
+Write Code Every Day:
+http://ejohn.org/blog/write-code-every-day/
