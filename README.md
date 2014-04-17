@@ -290,3 +290,9 @@ http://jaredly.github.io/treed/
 
 Write Code Every Day:
 http://ejohn.org/blog/write-code-every-day/
+
+Creating a bare bones bootloader:
+http://www.reinterpretcast.com/creating-a-bare-bones-bootloader
+
+Ask HN: What source code is wortg studying:
+https://news.ycombinator.com/item?id=7602237
