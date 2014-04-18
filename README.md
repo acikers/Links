@@ -296,3 +296,6 @@ http://www.reinterpretcast.com/creating-a-bare-bones-bootloader
 
 Ask HN: What source code is wortg studying:
 https://news.ycombinator.com/item?id=7602237
+
+Linux Security Circus On GUI Isolation:
+http://theinvisiblethings.blogspot.fr/2011/04/linux-security-circus-on-gui-isolation.html
