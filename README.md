@@ -299,3 +299,9 @@ https://news.ycombinator.com/item?id=7602237
 
 Linux Security Circus On GUI Isolation:
 http://theinvisiblethings.blogspot.fr/2011/04/linux-security-circus-on-gui-isolation.html
+
+Debug your programs like theyre closed source:
+http://jvns.ca/blog/2014/04/20/debug-your-programs-like-theyre-closed-source/
+
+Assembly Tutorial (MIPS):
+http://chortle.ccsu.edu/AssemblyTutorial/index.html
