@@ -305,3 +305,6 @@ http://jvns.ca/blog/2014/04/20/debug-your-programs-like-theyre-closed-source/
 
 Assembly Tutorial (MIPS):
 http://chortle.ccsu.edu/AssemblyTutorial/index.html
+
+Bored People Quit:
+http://randsinrepose.com/archives/bored-people-quit/
