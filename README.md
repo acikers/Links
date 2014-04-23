@@ -308,3 +308,13 @@ http://chortle.ccsu.edu/AssemblyTutorial/index.html
 
 Bored People Quit:
 http://randsinrepose.com/archives/bored-people-quit/
+
+Wait, WUT?
+http://x.naveen.com/post/83436808746/wait-wut
+
+How to be a great software developer:
+http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer
+
+Quest to build the Ultimate Music Player:
+http://andrewkelley.me/post/quest-build-ultimate-music-player.html
+
