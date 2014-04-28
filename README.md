@@ -318,3 +318,14 @@ http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer
 Quest to build the Ultimate Music Player:
 http://andrewkelley.me/post/quest-build-ultimate-music-player.html
 
+User is drunk:
+http://youtu.be/r2CbbBLVaPk
+
+Some Thoughts On Go And Erlang:
+http://blog.erlware.org/2014/04/27/some-thoughts-on-go-and-erlang/
+
+SSH Kung-Fu:
+http://blog.tjll.net/ssh-kung-fu/
+
+An Erlang Postgres Driver Refurbishing Open Source:
+http://journal.dedasys.com/2014/04/27/an-erlang-postgres-driver-refurbishing-open-source/
