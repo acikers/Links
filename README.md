@@ -329,3 +329,6 @@ http://blog.tjll.net/ssh-kung-fu/
 
 An Erlang Postgres Driver Refurbishing Open Source:
 http://journal.dedasys.com/2014/04/27/an-erlang-postgres-driver-refurbishing-open-source/
+
+Learning Modern 3D Graphics Programming:
+http://www.arcsynthesis.org/gltut/#
