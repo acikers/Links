@@ -332,3 +332,6 @@ http://journal.dedasys.com/2014/04/27/an-erlang-postgres-driver-refurbishing-ope
 
 Learning Modern 3D Graphics Programming:
 http://www.arcsynthesis.org/gltut/#
+
+Inverse Cinematic:
+http://habrahabr.ru/post/222689/
