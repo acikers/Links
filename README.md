@@ -335,3 +335,6 @@ http://www.arcsynthesis.org/gltut/#
 
 Inverse Cinematic:
 http://habrahabr.ru/post/222689/
+
+The Weirdest Desgin Trick I Know:
+http://www.theastronauts.com/2013/06/the-weirdest-design-trick-i-know/
