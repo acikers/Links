@@ -338,3 +338,6 @@ http://habrahabr.ru/post/222689/
 
 The Weirdest Desgin Trick I Know:
 http://www.theastronauts.com/2013/06/the-weirdest-design-trick-i-know/
+
+Python Practice Book:
+http://anandology.com/python-practice-book/index.html
